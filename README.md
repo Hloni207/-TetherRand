@@ -47,25 +47,6 @@
     📢 Important Notice
   </p>
   <p style="color: #94a3b8; font-size: 14px; line-height: 1.6; margin: 0;">
-    Get TetherRand exclusively from official channels like <a href="https://github.com/Hloni207" style="color: #818cf8; text-decoration: none;">Hloni207/tether-rand</a> or official npm packages. Always verify release signatures and repository URLs before executing settlement scripts or deploying smart contracts.
+    TetherRand is still under development. Please be patient with the work
   </p>
 </div>
-
-<div style="background: #0b0f19; padding: 32px; border-radius: 12px; border: 1px solid #1e293b;">
-  <h2 style="color: #ffffff; font-weight: 700; border-bottom: 1px solid #1e293b; padding-bottom: 12px; margin-top: 0;">
-    ⚡ Quick Start Guide
-  </h2>
-  <p style="color: #94a3b8; margin-bottom: 16px;">Clone and initialize your local node interface:</p>
-
-```bash
-# Clone the repository
-git clone [https://github.com/Hloni207/tether-rand-p2p.git](https://github.com/Hloni207/tether-rand-p2p.git)
-
-# Navigate into project directory
-cd tether-rand-p2p
-
-# Install dependencies
-bun install
-
-# Run environment
-bun run dev
